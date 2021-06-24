@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# The Aarav Syngth Experience
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> The bedroom pop of synth design, or: I quit my job and now I wanna post about it. Thanks for coming out!
