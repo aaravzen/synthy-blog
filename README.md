@@ -1,1 +1,0 @@
-synthy-blog
