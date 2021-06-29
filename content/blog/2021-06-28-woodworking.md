@@ -28,7 +28,7 @@ added on the bottom,
 
 stained it,
 
-![stained layers of bed](/images/woodworking/bed_one_layer.jpg?resize=300 'Bed Stained'),
+![stained layers of bed](/images/woodworking/bed_one_layer.jpg?resize=300 'Bed Stained')
 
 added slats,
 
@@ -38,17 +38,17 @@ and then I was pretty much done!
 
 ![finished bed](/images/woodworking/bed_finished.jpeg?resize=500 'Bed Finished')
 
-I just had to move it into my room
+I just had to move it into my room,
 
 ![bed in room](/images/woodworking/bed_assembled.jpg?resize=300 'Bed In Room')
 
-add lights
+add lights,
 
 ![bed with lights](/images/woodworking/bed_lighting.jpg?resize=300 'Bed With Lights')
 
 and eventually add a guitar stand.
 
-![bed with guitar](/images/woodworking/bed_with_guitar.jpg?resize=300 'Bed With Guitar')
+![bed with guitar](/images/woodworking/bed_with_guitar.jpg?resize=600 'Bed With Guitar')
 
 Which brings us to our next woodworking adventure:
 
@@ -112,4 +112,4 @@ The design on the side is a woodburning and mixed media (nail, guitar string) re
 
 And I can state with near certainty that this guitar stand itself has never tipped over :4) which is really good and pretty indicative of a complete success on this one. Yay!
 
-![christy and her guitar stand](/images/woodworking/christy_guitar_stand.jpg?resize=300 'Christy and her guitar stand')
+![christy and her guitar stand](/images/woodworking/christy_guitar_stand.jpg?resize=500 'Christy and her guitar stand')
