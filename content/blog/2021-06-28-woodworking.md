@@ -47,13 +47,13 @@ add lights
 
 ![bed with lights](/images/woodworking/bed_lighting.jpg?resize=300 'Bed With Lights')
 
-and eventually added a guitar stand
+and eventually add a guitar stand.
 
 ![bed with guitar](/images/woodworking/bed_with_guitar.jpg?resize=300 'Bed With Guitar')
 
-which brings us to our next woodworking adventure!
+Which brings us to our next woodworking adventure:
 
-### Kalimbatar
+### The Kalimbatar
 
 I tacked on a kalimba onto the face of my sorta broken Yamaha FG-800, as pictured above.
 
@@ -109,7 +109,7 @@ With my newfound experience in how not to build guitar stands, in April 2021 I s
 
 The design on the side is a woodburning and mixed media (nail, guitar string) rendition of the major chord shapes on the neck of a guitar (the CAGED system, if that's more familiar terminology). Here's what it looks like with a guitar on it
 
-![christy's guitar stand](/images/woodworking/guitar_stand.jpg?resize=300 'Christy's guitar stand')
+![christy guitar stand](/images/woodworking/guitar_stand.jpg?resize=300 'Christy's guitar stand')
 
 And I can state with near certainty that this guitar stand itself has never tipped over :4) which is really good and pretty indicative of a complete success on this one. Yay!
 
