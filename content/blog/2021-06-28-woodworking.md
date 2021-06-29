@@ -1,11 +1,10 @@
 ---
 title: "Woodworking"
 date: 2021-06-28T21:30:00.000Z
-image: /images/woodworking/hammock_stand_sitting.jpeg
 draft: true
 ---
 
-[This is a blog post about woodworking. In it, I can mention the bed, hammock stand, guitar stand, and guitar mods]
+![Intro Pic](/images/woodworking/hammock_stand_sitting.jpeg?resize=300 'Sitting in Hammock GONE WRONG')
 
 ## Woodworking
 
