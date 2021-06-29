@@ -4,9 +4,9 @@ date: 2021-06-28T21:30:00.000Z
 draft: true
 ---
 
-![Intro Pic](/images/woodworking/hammock_stand_sitting.jpeg?resize=300 'Sitting in Hammock GONE WRONG')
+![Intro Pic](/images/woodworking/hammock_stand_sitting.jpeg?resize=600 'Sitting in Hammock GONE WRONG')
 
-## Woodworking
+## Like carpentry but less structurally secure
 
 Woodworking has long been a hobby of mine to varying degrees of success. Although lots of success is possible with great patience and careful thought, lots of success is also possible with very expensive tools that I don't have access to.
 
@@ -32,11 +32,11 @@ stained it,
 
 added slats,
 
-![so many layers of bed](/images/woodworking/bed_last_slat.jpeg?resize=300 'Bed Layered')
+![so many layers of bed](/images/woodworking/bed_last_slat.jpeg?resize=500 'Bed Layered')
 
 and then I was pretty much done!
 
-![finished bed](/images/woodworking/bed_finished.jpeg?resize=300 'Bed Finished')
+![finished bed](/images/woodworking/bed_finished.jpeg?resize=500 'Bed Finished')
 
 I just had to move it into my room
 
@@ -66,7 +66,7 @@ Unluckily, I also made lots of mistakes along the way. But on the bright side th
 
 Here you can see a side-by-side of an unassembled kalimba I partially manufactured (on the right, somewhat in a ziploc), a kalimba I manufactured until the base plate cracked (bottom left), and my Moozica kalimba which helped inspire this project (top left).
 
-![iterated kalimbas](/images/woodworking/kalimba_iterations.jpg?resize=300 'Kalimba iterations')
+![iterated kalimbas](/images/woodworking/kalimba_iterations.jpg?resize=500 'Kalimba iterations')
 
 ### Guitar stand
 
@@ -86,11 +86,11 @@ Sadly. That did not hold true forever and so good ol' kalimbatar has had a super
 
 A bit later in the winter of 2021, around february, my (previously mentioned) roommate and good friend Peter got me to help him build a hammock stand.
 
-![hammock stand](/images/woodworking/hammock_stand.jpg?resize=300 'Hammock Stand')
+![hammock stand](/images/woodworking/hammock_stand.jpg?resize=500 'Hammock Stand')
 
 It kept breaking because, despite a combined 6 bachelors degrees (and boy am I not carrying my weight on that one), neither of us are real capital-E Engineers. We forgot some key physics about how hammocks work and kept trying to bug fix
 
-![hammock stand bug fixing](/images/woodworking/hammock_stand_bug_fixing.jpeg?resize=300 'Hammock Stand Bug Fixing')
+![hammock stand bug fixing](/images/woodworking/hammock_stand_bug_fixing.jpeg?resize=500 'Hammock Stand Bug Fixing')
 
 though none of the bug fixing worked until we consulted external help (s/o Peter's family)
 
