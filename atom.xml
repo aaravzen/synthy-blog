@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.syngths.xyz/</id>
-  <title>The Butler</title>
-  <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
+  <title>The Aarav Syngth Experience</title>
+  <subtitle><![CDATA[I quit my job to build instruments and now I'm gonna post about it]]></subtitle>
   <link href="https://www.syngths.xyz/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.syngths.xyz/" rel="alternate" type="text/html" />
   <updated>2020-03-08T20:00:00-04:00</updated>
   <author>
-    <name>The Butler</name>
+    <name>The Aarav Syngth Experience</name>
     <uri>https://www.syngths.xyz/</uri>
   </author>
   <entry xml:lang="en">
