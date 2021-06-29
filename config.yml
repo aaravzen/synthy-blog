@@ -1,13 +1,13 @@
 title: The Butler
 baseline: Your blogging assistant
 description: A ready to use static blog, powered by Cecil.
-baseurl: /
+baseurl: https://www.syngths.xyz/
 canonicalurl: true
-keywords: [Cecil, Static Site Generator, SSG]
-author: Arnaud Ligny
+keywords: [The Aarav Syngth Experience, Synthesizers, Synths, Synth, Aarav, Singh]
+author: Aarav Singh
 date:
-  format: j F Y
-  timezone: Europe/Paris
+  format: F j, Y
+  timezone: America/New_York
 theme:
   - hyde
   - netlify
