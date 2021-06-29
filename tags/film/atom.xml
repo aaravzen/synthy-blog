@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.syngths.xyz/tags/film/</id>
-  <title>The Aarav Syngth Experience - Film</title>
+  <title>Aarav&#039;s Syngths - Film</title>
   <subtitle><![CDATA[I quit my job to build instruments and now I'm gonna post about it]]></subtitle>
   <link href="https://www.syngths.xyz/tags/film/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.syngths.xyz/tags/film/" rel="alternate" type="text/html" />
   <updated>2020-03-08T20:00:00-04:00</updated>
   <author>
-    <name>The Aarav Syngth Experience</name>
+    <name>Aarav's Syngths</name>
     <uri>https://www.syngths.xyz/</uri>
   </author>
   <entry xml:lang="en">

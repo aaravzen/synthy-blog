@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.syngths.xyz/tags/music/</id>
-  <title>The Aarav Syngth Experience - Music</title>
+  <title>Aarav&#039;s Syngths - Music</title>
   <subtitle><![CDATA[I quit my job to build instruments and now I'm gonna post about it]]></subtitle>
   <link href="https://www.syngths.xyz/tags/music/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.syngths.xyz/tags/music/" rel="alternate" type="text/html" />
   <updated>2020-02-05T09:43:00-05:00</updated>
   <author>
-    <name>The Aarav Syngth Experience</name>
+    <name>Aarav's Syngths</name>
     <uri>https://www.syngths.xyz/</uri>
   </author>
   <entry xml:lang="en">
