@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>/</id>
+  <id>https://www.syngths.xyz/</id>
   <title>The Butler</title>
   <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
-  <link href="/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2020-03-09T01:00:00+01:00</updated>
+  <link href="https://www.syngths.xyz/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://www.syngths.xyz/" rel="alternate" type="text/html" />
+  <updated>2020-03-08T20:00:00-04:00</updated>
   <author>
     <name>The Butler</name>
-    <uri>/</uri>
+    <uri>https://www.syngths.xyz/</uri>
   </author>
   <entry xml:lang="en">
-    <id>/blog/princess-mononoke/</id>
+    <id>https://www.syngths.xyz/blog/princess-mononoke/</id>
     <title>Princess Mononoke</title>
     <content type="html">
       <![CDATA[<p><strong><em>Princess Mononoke</em></strong> (<a href="https://en.m.wikipedia.org/wiki/Japanese_language">Japanese</a>: もののけ姫 <a href="https://en.m.wikipedia.org/wiki/Hepburn_romanization">Hepburn</a>: <strong>Mononoke-<a href="https://en.m.wikipedia.org/wiki/Hime">hime</a></strong>, &quot;Spirit/Monster Princess&quot;) is a 1997 Japanese <a href="https://en.m.wikipedia.org/wiki/Anime">animated</a> <a href="https://en.m.wikipedia.org/wiki/Fantasy_film">fantasy film</a> written and directed by <a href="https://en.m.wikipedia.org/wiki/Hayao_Miyazaki">Hayao Miyazaki</a>, animated by <a href="https://en.m.wikipedia.org/wiki/Studio_Ghibli">Studio Ghibli</a> for <a href="https://en.m.wikipedia.org/wiki/Tokuma_Shoten">Tokuma Shoten</a>, <a href="https://en.m.wikipedia.org/wiki/Nippon_Television_Network">Nippon Television Network</a> and <a href="https://en.m.wikipedia.org/wiki/Dentsu">Dentsu</a>, and distributed by <a href="https://en.m.wikipedia.org/wiki/Toho">Toho</a>. The film stars the voices of <a href="https://en.m.wikipedia.org/wiki/Yōji_Matsuda">Yōji Matsuda</a>, <a href="https://en.m.wikipedia.org/wiki/Yuriko_Ishida">Yuriko Ishida</a>, <a href="https://en.m.wikipedia.org/wiki/Yūko_Tanaka">Yūko Tanaka</a>, <a href="https://en.m.wikipedia.org/wiki/Kaoru_Kobayashi_(actor)">Kaoru Kobayashi</a>, <a href="https://en.m.wikipedia.org/wiki/Masahiko_Nishimura">Masahiko Nishimura</a>, <a href="https://en.m.wikipedia.org/wiki/Tsunehiko_Kamijo">Tsunehiko Kamijo</a>, <a href="https://en.m.wikipedia.org/wiki/Akihiro_Miwa">Akihiro Miwa</a>, <a href="https://en.m.wikipedia.org/wiki/Mitsuko_Mori">Mitsuko Mori</a> and <a href="https://en.m.wikipedia.org/wiki/Hisaya_Morishige">Hisaya Morishige</a>.</p>
@@ -22,12 +22,12 @@
 <p>Source: <a href="https://en.m.wikipedia.org/wiki/Princess_Mononoke">https://en.m.wikipedia.org/wiki/Princess_Mononoke</a></p>
 </blockquote>]]>
     </content>
-    <link href="/blog/princess-mononoke/" rel="alternate" type="text/html" />
-    <published>2020-03-09T01:00:00+01:00</published>
-    <updated>2020-03-09T01:00:00+01:00</updated>
+    <link href="https://www.syngths.xyz/blog/princess-mononoke/" rel="alternate" type="text/html" />
+    <published>2020-03-08T20:00:00-04:00</published>
+    <updated>2020-03-08T20:00:00-04:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>/blog/daft-punk/</id>
+    <id>https://www.syngths.xyz/blog/daft-punk/</id>
     <title>Daft Punk</title>
     <content type="html">
       <![CDATA[<p><strong>Daft Punk</strong> is a French <a href="https://en.m.wikipedia.org/wiki/Electronic_music">electronic music</a> duo formed in Paris in 1993 by <a href="https://en.m.wikipedia.org/wiki/Guy-Manuel_de_Homem-Christo">Guy-Manuel de Homem-Christo</a> and <a href="https://en.m.wikipedia.org/wiki/Thomas_Bangalter">Thomas Bangalter</a>. They achieved popularity in the late 1990s as part of the <a href="https://en.m.wikipedia.org/wiki/French_house">French house</a> movement; they also had success in the years following, combining elements of <a href="https://en.m.wikipedia.org/wiki/House_music">house music</a> with <a href="https://en.m.wikipedia.org/wiki/Funk">funk</a>, <a href="https://en.m.wikipedia.org/wiki/Techno">techno</a>, <a href="https://en.m.wikipedia.org/wiki/Disco">disco</a>, rock and <a href="https://en.m.wikipedia.org/wiki/Synthpop">synthpop</a>. They have worn ornate helmets and gloves to assume <a href="https://en.m.wikipedia.org/wiki/Robot">robot</a> personas in most public appearances since 1999 and rarely grant interviews or appear on television. The duo were managed from 1996 to 2008 by <a href="https://en.m.wikipedia.org/wiki/Pedro_Winter">Pedro Winter</a> (also known as Busy P), the head of <a href="https://en.m.wikipedia.org/wiki/Ed_Banger_Records">Ed Banger Records</a>.</p>
@@ -38,12 +38,12 @@
 <p>Source: <a href="https://en.m.wikipedia.org/wiki/Daft_Punk">https://en.m.wikipedia.org/wiki/Daft_Punk</a></p>
 </blockquote>]]>
     </content>
-    <link href="/blog/daft-punk/" rel="alternate" type="text/html" />
-    <published>2020-02-05T15:43:00+01:00</published>
-    <updated>2020-02-05T15:43:00+01:00</updated>
+    <link href="https://www.syngths.xyz/blog/daft-punk/" rel="alternate" type="text/html" />
+    <published>2020-02-05T09:43:00-05:00</published>
+    <updated>2020-02-05T09:43:00-05:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>/blog/doom/</id>
+    <id>https://www.syngths.xyz/blog/doom/</id>
     <title>Doom</title>
     <content type="html">
       <![CDATA[<p><strong><em>Doom</em></strong> (stylized as <strong><em>DOOM</em></strong> or <strong><em>DooM</em></strong> in other media) is a 1993 <a href="https://en.m.wikipedia.org/wiki/First-person_shooter">first-person shooter</a> developed and published by <a href="https://en.m.wikipedia.org/wiki/Id_Software">id Software</a> for <a href="https://en.m.wikipedia.org/wiki/MS-DOS">MS-DOS</a>. Players assume the role of a <a href="https://en.m.wikipedia.org/wiki/Space_marine">space marine</a>, popularly known as &quot;<a href="https://en.m.wikipedia.org/wiki/Doomguy">Doomguy</a>&quot;, fighting his way through hordes of invading <a href="https://en.m.wikipedia.org/wiki/Demon">demons</a> from <a href="https://en.m.wikipedia.org/wiki/Hell">Hell</a>. The first episode, comprising nine levels, was distributed freely as <a href="https://en.m.wikipedia.org/wiki/Shareware">shareware</a> and played by an estimated 15–20 million people within two years; the full game, with two further episodes, was sold via <a href="https://en.m.wikipedia.org/wiki/Mail_order">mail order</a>. An updated version with an additional episode, <em>Ultimate Doom</em>, was released in 1995 and sold at retail.</p>
@@ -54,24 +54,24 @@
 <p>Source: <a href="https://en.m.wikipedia.org/wiki/Doom_(1993_video_game">https://en.m.wikipedia.org/wiki/Doom_(1993_video_game</a>)</p>
 </blockquote>]]>
     </content>
-    <link href="/blog/doom/" rel="alternate" type="text/html" />
-    <published>2019-12-14T01:00:00+01:00</published>
-    <updated>2019-12-14T01:00:00+01:00</updated>
+    <link href="https://www.syngths.xyz/blog/doom/" rel="alternate" type="text/html" />
+    <published>2019-12-13T19:00:00-05:00</published>
+    <updated>2019-12-13T19:00:00-05:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>/about/</id>
+    <id>https://www.syngths.xyz/about/</id>
     <title>About</title>
     <content type="html">
       <![CDATA[<blockquote>
 <p>A blog by Aarav Singh</p>
 </blockquote>
-<h2>What's up?</h2>
+<h2 id="what-s-up">What's up?</h2>
 <p>Currently I'm working on building/developing musical instruments and studying the materialist conception of history full-time. In my spare time, I try my hand at woodworking, electronics, music, cooking, and many other short-lived but fondly-remembered hobbies.</p>
 <p>I'm currently in the process of moving from Seattle back to Virginia.</p>
-<h3>Professional Experience, mostly in Seattle and NYC</h3>
+<h3 id="professional-experience-mostly-in-seattle-and-nyc">Professional Experience, mostly in Seattle and NYC</h3>
 <p>I was last a software developer (aka <code>networking engineer</code>) at <a href="https://www.microsoft.com/en-us/">Microsoft</a> working on <a href="https://docs.microsoft.com/en-us/azure/traffic-manager/">Azure Traffic Manager</a> in Redmond, WA.</p>
 <p>In 2017 and 2018, I spent time interning at <a href="https://www.bloomberg.com/company/">Bloomberg, LP</a>. I built software to incorporate open orders in cash blotters for <a href="https://www.bloomberg.com/professional/product/asset-and-investment-manager/">Asset and Investment Manager</a> (buy-side tool suite) during my first year there. My second year, I switched over to sell-side tools as I worked on the <a href="https://www.bloomberg.com/professional/product/salesperson-dashboard/">Salesperson Dashboard (DASH)</a>; here, I built a <a href="https://en.wikipedia.org/wiki/Financial_Information_eXchange">FIX</a> message sender and simulator for internal development testing, beta production testing, and external sales demonstrations of our application suite workflows. I also won a fun <a href="https://vimeo.com/242652952">overnight puzzle challenge</a> during my time there, s/o Mikey Mike and the Bloomberg Bunch!</p>
-<h3>Education and Academic Hobbies, back in Blacksburg</h3>
+<h3 id="education-and-academic-hobbies-back-in-blacksburg">Education and Academic Hobbies, back in Blacksburg</h3>
 <p>I got a couple B.Sc.s from <a href="vt.edu">Virginia Tech</a> in math and computer science in 2018.</p>
 <p>I've spent time helping out at <a href="https://vthacks.com/">VTHacks</a> (PR and organizing for the event) and <a href="https://www.vthunt.com/">VTHunt</a> (making the site for the puzzle hunt).</p>
 <p>I was also a member of the <a href="https://icpc.cs.vt.edu/#/">VT Programming Team</a>. We competed in the <a href="https://icpc.baylor.edu/">ACM ICPC</a>, training under <a href="https://people.cs.vt.edu/~gback/">Dr. Godmar Back</a>. I competed in the <a href="https://mausa17.kattis.com/standings">2017 Mid-Atlantic ICPC Regional</a> on team WorstSort (we finished #7/170). In the <a href="https://mausa18.kattis.com/standings">2018 Mid-Atlantic ICPC Regional</a>, I was a member of the Classy Coders (we finished #11/185). I was also a <a href="https://codecon.bloomberg.com/">Bloomberg CodeCon</a> World Finalist in 2019.</p>
@@ -86,14 +86,14 @@
 <a href="https://pcs.cs.cloud.vt.edu/problems/288">Maximal Substring with N repeated characters</a><br />
 <a href="https://pcs.cs.cloud.vt.edu/problems/273">Find the Apple</a>  </p>
 <p>I also tutored math and physics (calculus, linear algebra, differential equations, number theory, mechanics) and spent ample time in the Systems Lounge down in the basement of McBryde.</p>
-<h3>The Formative Years, at home in Richmond, VA</h3>
+<h3 id="the-formative-years-at-home-in-richmond-va">The Formative Years, at home in Richmond, VA</h3>
 <p>I graduated from <a href="http://www.gsgis.k12.va.us/">Maggie L. Walker Governor's School</a> in 2015.</p>
 <p>I spent most of my time in high school dedicated working with my robotics team, the <a href="http://mechtechdragons.com/">Mech Tech Dragons</a>. I was the Team Captain (CEO) my senior year and served as the Build Captain (CTO) my junior year. I won the <a href="https://www.thebluealliance.com/team/422/2014">Dean's List Finalist Award</a> during my tenure there and I'm proud to have helped shape the team with some of the most meaningful work I've done.</p>
 <p>I worked as a teacher and camp counselor at <a href="https://www.engineeringforkids.com/">Engineering for Kids</a> for a few years. I really enjoy working with kids, and this opportunity was a great chance to develop my ability to communicate and handle overwhelming classroom situations.</p>
 <p>I was a research assistant at <a href="https://egr.vcu.edu/directory/karlamossi/">Dr. Karla Mossi</a>'s <a href="http://www.people.vcu.edu/~kmmossi/index.htm">Smart Materials Lab</a> at VCU. I helped her and Dr. Ugur Erturun during their research collection and editing phases of their paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431115003294">Thermoelectric Devices with Rotated and Coaxial Leg Configurations: Numerical Analysis of Performance</a>.</p>]]>
     </content>
-    <link href="/about/" rel="alternate" type="text/html" />
-    <published>2019-07-09T02:00:00+02:00</published>
-    <updated>2019-07-09T02:00:00+02:00</updated>
+    <link href="https://www.syngths.xyz/about/" rel="alternate" type="text/html" />
+    <published>2019-07-08T20:00:00-04:00</published>
+    <updated>2019-07-08T20:00:00-04:00</updated>
   </entry>
 </feed>

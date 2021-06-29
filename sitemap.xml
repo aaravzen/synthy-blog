@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/</loc>
-    <lastmod>2020-03-09</lastmod>
+    <loc>https://www.syngths.xyz/</loc>
+    <lastmod>2020-03-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/blog/princess-mononoke/</loc>
-    <lastmod>2020-03-09</lastmod>
+    <loc>https://www.syngths.xyz/blog/princess-mononoke/</loc>
+    <lastmod>2020-03-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/blog/daft-punk/</loc>
+    <loc>https://www.syngths.xyz/blog/daft-punk/</loc>
     <lastmod>2020-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/blog/doom/</loc>
-    <lastmod>2019-12-14</lastmod>
+    <loc>https://www.syngths.xyz/blog/doom/</loc>
+    <lastmod>2019-12-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/about/</loc>
-    <lastmod>2019-07-09</lastmod>
+    <loc>https://www.syngths.xyz/about/</loc>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
