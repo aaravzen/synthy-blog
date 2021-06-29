@@ -1,7 +1,7 @@
 ---
 title: "Woodworking"
 date: 2021-06-28T21:30:00.000Z
-image: /images/woodworking/hammock_stand_sitting.jpg
+image: /images/woodworking/hammock_stand_sitting.jpeg
 draft: true
 ---
 
