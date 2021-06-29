@@ -15,7 +15,7 @@ I've done my best over the past few months to make some furniture and instrument
 
 ### Bed
 
-The main cool thing I've built is a floating bed! 
+The coolest thing I've built is a floating bed! 
 
 ![with a guitar stand on it](/images/woodworking/bed_first_pic.jpg?resize=300 'Bed')
 
