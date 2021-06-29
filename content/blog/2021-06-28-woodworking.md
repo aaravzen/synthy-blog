@@ -2,7 +2,6 @@
 title: "Woodworking"
 date: 2021-06-28T16:34:00.000Z
 image: /images/guitar_stand.jpg
-image: 
 draft: true
 ---
 
