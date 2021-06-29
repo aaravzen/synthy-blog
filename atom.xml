@@ -63,13 +63,13 @@
     <title>About</title>
     <content type="html">
       <![CDATA[<blockquote>
-<p>A blog by Aarav Singh</p>
+<p>A site by Aarav Singh</p>
 </blockquote>
 <h2 id="what-s-up">What's up?</h2>
-<p>Currently I'm working on building/developing musical instruments and studying the materialist conception of history full-time. In my spare time, I try my hand at woodworking, electronics, music, cooking, and many other short-lived but fondly-remembered hobbies.</p>
+<p>Currently I'm working on developing musical instruments and studying the materialist conception of history full-time. When I'm not doing that, I try my hand at woodworking, electronics, playing music, cooking, and many other short-lived but fondly-remembered hobbies.</p>
 <p>I'm currently in the process of moving from Seattle back to Virginia.</p>
 <h3 id="professional-experience-mostly-in-seattle-and-nyc">Professional Experience, mostly in Seattle and NYC</h3>
-<p>I was last a software developer (aka <code>networking engineer</code>) at <a href="https://www.microsoft.com/en-us/">Microsoft</a> working on <a href="https://docs.microsoft.com/en-us/azure/traffic-manager/">Azure Traffic Manager</a> in Redmond, WA.</p>
+<p>I was last a software developer (aka a <code>networking engineer</code>) at <a href="https://www.microsoft.com/en-us/">Microsoft</a> working on <a href="https://docs.microsoft.com/en-us/azure/traffic-manager/">Azure Traffic Manager</a> in Redmond, WA.</p>
 <p>In 2017 and 2018, I spent time interning at <a href="https://www.bloomberg.com/company/">Bloomberg, LP</a>. I built software to incorporate open orders in cash blotters for <a href="https://www.bloomberg.com/professional/product/asset-and-investment-manager/">Asset and Investment Manager</a> (buy-side tool suite) during my first year there. My second year, I switched over to sell-side tools as I worked on the <a href="https://www.bloomberg.com/professional/product/salesperson-dashboard/">Salesperson Dashboard (DASH)</a>; here, I built a <a href="https://en.wikipedia.org/wiki/Financial_Information_eXchange">FIX</a> message sender and simulator for internal development testing, beta production testing, and external sales demonstrations of our application suite workflows. I also won a fun <a href="https://vimeo.com/242652952">overnight puzzle challenge</a> during my time there, s/o Mikey Mike and the Bloomberg Bunch!</p>
 <h3 id="education-and-academic-hobbies-back-in-blacksburg">Education and Academic Hobbies, back in Blacksburg</h3>
 <p>I got a couple B.Sc.s from <a href="vt.edu">Virginia Tech</a> in math and computer science in 2018.</p>
