@@ -109,7 +109,7 @@ With my newfound experience in how not to build guitar stands, in April 2021 I s
 
 The design on the side is a woodburning and mixed media (nail, guitar string) rendition of the major chord shapes on the neck of a guitar (the CAGED system, if that's more familiar terminology). Here's what it looks like with a guitar on it
 
-![christy guitar stand](/images/woodworking/guitar_stand.jpg?resize=300 'Christy's guitar stand')
+![christy guitar stand](/images/woodworking/guitar_stand.jpg?resize=300 'Christy guitar stand')
 
 And I can state with near certainty that this guitar stand itself has never tipped over :4) which is really good and pretty indicative of a complete success on this one. Yay!
 
