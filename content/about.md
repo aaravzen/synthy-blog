@@ -5,17 +5,17 @@ menu:
   main:
     weight: 999
 ---
-> A blog by Aarav Singh
+> A site by Aarav Singh
 
 ## What's up?
 
-Currently I'm working on building/developing musical instruments and studying the materialist conception of history full-time. In my spare time, I try my hand at woodworking, electronics, music, cooking, and many other short-lived but fondly-remembered hobbies.
+Currently I'm working on developing musical instruments and studying the materialist conception of history full-time. When I'm not doing that, I try my hand at woodworking, electronics, playing music, cooking, and many other short-lived but fondly-remembered hobbies.
 
 I'm currently in the process of moving from Seattle back to Virginia.
 
 ### Professional Experience, mostly in Seattle and NYC
 
-I was last a software developer (aka `networking engineer`) at [Microsoft](https://www.microsoft.com/en-us/) working on [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/) in Redmond, WA.
+I was last a software developer (aka a `networking engineer`) at [Microsoft](https://www.microsoft.com/en-us/) working on [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/) in Redmond, WA.
 
 In 2017 and 2018, I spent time interning at [Bloomberg, LP](https://www.bloomberg.com/company/). I built software to incorporate open orders in cash blotters for [Asset and Investment Manager](https://www.bloomberg.com/professional/product/asset-and-investment-manager/) (buy-side tool suite) during my first year there. My second year, I switched over to sell-side tools as I worked on the [Salesperson Dashboard (DASH)](https://www.bloomberg.com/professional/product/salesperson-dashboard/); here, I built a [FIX](https://en.wikipedia.org/wiki/Financial_Information_eXchange) message sender and simulator for internal development testing, beta production testing, and external sales demonstrations of our application suite workflows. I also won a fun [overnight puzzle challenge](https://vimeo.com/242652952) during my time there, s/o Mikey Mike and the Bloomberg Bunch!
 
