@@ -5,46 +5,31 @@
   <subtitle><![CDATA[I quit my job to build instruments and now I'm gonna post about it]]></subtitle>
   <link href="https://www.syngths.xyz/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.syngths.xyz/" rel="alternate" type="text/html" />
-  <updated>2021-06-30T08:00:00-04:00</updated>
+  <updated>2021-07-07T08:00:00-04:00</updated>
   <author>
     <name>Aarav's Syngths</name>
     <uri>https://www.syngths.xyz/</uri>
   </author>
   <entry xml:lang="en">
-    <id>https://www.syngths.xyz/blog/syngths/</id>
-    <title>The Aarav Syngth Experience - June</title>
+    <id>https://www.syngths.xyz/blog/</id>
+    <title>Howdy</title>
     <content type="html">
-      <![CDATA[<p>My name's Aarav Singh, right, so Syngth is a pun on that. That part's fairly straightforward. The origin story of the full name (<code>The Aarav Syngth Experience</code>) has its roots in rock, pulling inspiration from Hendrix, but there's an intermediary step that involves high school jazz band small groups. A story for another post, perhaps.</p>
-<p>Here, we'll talk through what I know and where I am. I'm writing this in July, so this is as close to real time as it's gonna get.</p>
-<p>Let's discuss timelines, to help establish context. I've played the piano since about 2000, starting before elementary school. I took lessons through about middle school but it was never really a personal interest at the time. I started playing the guitar (apart from a bit of fiddling when I was an adolescent) last year in April, right around when I turned 23. It was a fun way to pass the time while I was stuck alone in my apartment.</p>
-<p>January 2021 was when I got my $55 stratocaster and started messing around with the analog electrical side of music. I was learning movable maj7/min7/dom7 chord shapes and trying to really internalize the CAGED system layout of the fretboard. This was about a month after leaving full time employment, so I had time to sink in.</p>
-<p>Late march was when I figured I'd do a project with my bud Mischa. I figured it would be easy enough to make a midi sequencer and mp3 player in an interface I wanted. In April, I started work. I spent most of the month designing and ideating. Lots of the ideas are now obsolete, and much of it was reinventing various wheels that have already been invented and perfected over the past ~50 years. I started doing tons of research on sound engineering and synthesis and instrument design. Turns out there's a lot of info on the world wide web. I started doing deep dives into the engineering of modern instruments and figuring out the workflows of modern music makers. In May I bought some starting electronics stuff and starting building guitar pedals and working on the raspi mobo and the physical implementation of the synth. Alright. Now you're up to speed.</p>
-<p>Welcome to the experience.</p>
-<p>So what'd I do in June? Well I got most of the hardware prototypes working to the proof of concept level. The prerequisite to much of that is getting all of it connected to the pi, so much of the work was focused on the motherboard. Here's what the second iteration looks like (check out my improving soldering skills!)</p>
-<p><img src="/images/synth_june/mobo_resistors.jpg.jpg?resize=450" alt="mobo_resistors.jpg" title="mobo_resistors.jpg" /></p>
-<p><img src="/images/synth_june/clean_soldering.jpg.jpg?resize=300" alt="clean_soldering.jpg" title="clean_soldering.jpg" /></p>
-<p>You can see that mobo, pi, encoders, and buttons interface together in the next couple pics</p>
-<p><img src="/images/synth_june/mobo.jpg.jpg?resize=600" alt="mobo.jpg" title="mobo.jpg" /></p>
-<p><img src="/images/synth_june/mobo_wired.jpg.jpg?resize=300" alt="mobo_wired.jpg" title="mobo_wired.jpg" /></p>
-<p>The ribbon cables make debugging way easier since they reduce the cycle time between writing code and testing it on different hardware. Here you can see the same mobo connected to breadboarded encoders when I was trying to identify the scope of some issues.</p>
-<p><img src="/images/synth_june/breadboard_encoders.jpg.jpg?resize=600" alt="breadboard_encoders.jpg" title="breadboard_encoders.jpg" /></p>
-<p>And now for some flashy pics, from when I got buttons and the screen working! This was right before the middle of June</p>
-<p><img src="/images/synth_june/hello_buttons.jpg.jpg?resize=450" alt="hello_buttons.jpg" title="hello_buttons.jpg" /></p>
-<p><img src="/images/synth_june/hello_screen.jpg.jpg?resize=450" alt="hello_screen.jpg" title="hello_screen.jpg" /></p>
-<p>About a week later, I got our first order of pcbs in! They don't work, the footprints don't work for all the components, but how cool is that!</p>
-<p><img src="/images/synth_june/first_pcb.jpg.jpg?resize=450" alt="first_pcb.jpg" title="first_pcb.jpg" /></p>
-<p>These pcbs were designed by Mischa in Fusion but I'm currently trying to replicate and fix them in software that's more open-source accessible. KiCad isn't supported on my old version of osx (same reason I can't run ruby lol) and until I migrate to a linux ecosystem I've been trying to work in browser via EasyEDA. We ordered the pcbs from JLCPCB anyway (see puzzle in photo) and it seems like the best option at the current moment. I'm hoping to finish my version of the pcb and send it for printing by the end of July so it's waiting for me in Richmond when I get there in August.</p>
-<p><img src="/images/synth_june/stuff_on_bed.jpg.jpg?resize=600" alt="stuff_on_bed.jpg" title="stuff_on_bed.jpg" /></p>
-<p>Here's the evolution of motherboards so far, from very messy to custom fabricated :'4)</p>
-<p><img src="/images/synth_june/mobo_evolution.jpg.jpg?resize=600" alt="mobo_evolution.jpg" title="mobo_evolution.jpg" /></p>
-<p>And right near the end of June, as I left Washington and lost access to Mischa's tools, I bought some replacements and some more materials. Most importantly, a nice soldering iron and digital multimeter. Also some ICs, some arduino nanos, a couple raspi picos, and some other miscellaneous electronics components.</p>
-<p><img src="/images/synth_june/replacing_mischas_tools.jpg.jpg?resize=600" alt="replacing_mischas_tools.jpg" title="replacing_mischas_tools.jpg" /></p>
-<p>All the new stuff I got in is framed by some very thoughtful and well-executed art made by some of my close friends from across the country, all of whom I'm excited to see in the coming months!</p>
-<p>I'm not sure how much progress I'll make in July and August (while I'm on the road) but the progress being made is pretty exciting already. I'm hoping to have some fun stuff to show for next time; maybe I'll even have shown this site to some folks by then!</p>]]>
+      <![CDATA[<p>I started writing this site a few days ago, my first blog post was published online around June 28th. But now I've gotten up to about 8 posts, almost enough for a full-fledged blog site, so I figure it's time to make all of them organized and accessible from the get go. For right now, and maybe forever, I decided to make the most recent blog post this index post so it shows up on the homepage. Here are the other posts I've got on the site:</p>
+<p>The Aarav Syngth Experience updates:
+<a href="https://syngths.xyz/blog/music-box/">april 2021</a>
+<a href="https://syngths.xyz/blog/synthy/">may 2021</a>
+<a href="https://syngths.xyz/blog/syngths/">june 2021</a></p>
+<p>Making stuff
+<a href="https://syngths.xyz/blog/woodworking/">woodworking</a>
+<a href="https://syngths.xyz/blog/guitar-pedals/">guitar pedals</a>
+<a href="https://syngths.xyz/blog/art/">(physical) art</a></p>
+<p>Photographs
+<a href="https://syngths.xyz/blog/skies/">skies</a>
+<a href="https://syngths.xyz/blog/cars/">cars</a></p>]]>
     </content>
-    <link href="https://www.syngths.xyz/blog/syngths/" rel="alternate" type="text/html" />
-    <published>2021-06-30T08:00:00-04:00</published>
-    <updated>2021-06-30T08:00:00-04:00</updated>
+    <link href="https://www.syngths.xyz/blog/" rel="alternate" type="text/html" />
+    <published>2021-07-07T08:00:00-04:00</published>
+    <updated>2021-07-07T08:00:00-04:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://www.syngths.xyz/about/</id>
