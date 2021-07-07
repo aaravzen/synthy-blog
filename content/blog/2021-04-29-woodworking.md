@@ -4,7 +4,7 @@ date: 2021-04-29T21:30:00.000Z
 draft: true
 ---
 
-![Intro Pic](/images/woodworking/hammock_stand_sitting.jpeg?resize=600 'Sitting in Hammock GONE WRONG')
+![Intro Pic](/images/woodworking/hammock_stand_sitting.jpeg?resize=1200 'Sitting in Hammock GONE WRONG')
 
 ## Like carpentry but less structurally secure
 
@@ -16,43 +16,43 @@ I've done my best over the past few months to make some furniture and instrument
 
 The coolest thing I've built is a floating bed! 
 
-![with a guitar stand on it](/images/woodworking/bed_first_pic.jpg?resize=300 'Bed')
+![with a guitar stand on it](/images/woodworking/bed_first_pic.jpg?resize=1200 'Bed')
 
 I planned it out a bit before working on it.
 
-![bed sketches](/images/woodworking/bed_sketches.jpg?resize=300 'Bed Sketches')
+![bed sketches](/images/woodworking/bed_sketches.jpg?resize=1200 'Bed Sketches')
 
 I started out with one layer,
 
-![single layer of bed](/images/woodworking/bed_one_layer.jpg?resize=300 'Bed First Layer')
+![single layer of bed](/images/woodworking/bed_one_layer.jpg?resize=1200 'Bed First Layer')
 
 added on the bottom, 
 
-![double layer of bed](/images/woodworking/bed_no_stain.jpg?resize=300 'Bed Both Layers')
+![double layer of bed](/images/woodworking/bed_no_stain.jpg?resize=1200 'Bed Both Layers')
 
 stained it,
 
-![stained layers of bed](/images/woodworking/bed_one_layer.jpg?resize=300 'Bed Stained')
+![stained layers of bed](/images/woodworking/bed_one_layer.jpg?resize=1200 'Bed Stained')
 
 added slats,
 
-![so many layers of bed](/images/woodworking/bed_last_slat.jpeg?resize=500 'Bed Layered')
+![so many layers of bed](/images/woodworking/bed_last_slat.jpeg?resize=1200 'Bed Layered')
 
 and then I was pretty much done!
 
-![finished bed](/images/woodworking/bed_finished.jpeg?resize=500 'Bed Finished')
+![finished bed](/images/woodworking/bed_finished.jpeg?resize=1200 'Bed Finished')
 
 I just had to move it into my room,
 
-![bed in room](/images/woodworking/bed_assembled.jpg?resize=300 'Bed In Room')
+![bed in room](/images/woodworking/bed_assembled.jpg?resize=1200 'Bed In Room')
 
 add lights,
 
-![bed with lights](/images/woodworking/bed_lighting.jpg?resize=300 'Bed With Lights')
+![bed with lights](/images/woodworking/bed_lighting.jpg?resize=1200 'Bed With Lights')
 
 and eventually add a guitar stand.
 
-![bed with guitar](/images/woodworking/bed_with_guitar.jpg?resize=600 'Bed With Guitar')
+![bed with guitar](/images/woodworking/bed_with_guitar.jpg?resize=1200 'Bed With Guitar')
 
 Which brings us to our next woodworking adventure:
 
@@ -62,15 +62,15 @@ I tacked on a kalimba onto the face of my sorta broken Yamaha FG-800, as picture
 
 This project had some tight tolerances in some fun places, and was a difficult project to complete in a shop like the one I had. I luckily had access to some of my bud Peter's clamps that allowed me to glue the project together.
 
-![clamped kalimbas](/images/woodworking/kalimbas_clamped.jpg?resize=300 'Kalimbas Clamped')
+![clamped kalimbas](/images/woodworking/kalimbas_clamped.jpg?resize=1200 'Kalimbas Clamped')
 
 Unluckily, I also made lots of mistakes along the way. But on the bright side that means I have more broken kalimbas to photograph, and that's an opportunity I just wouldn't have if everything had worked out one of the first one or two times I tried to build this project.
 
-![kalimbas](/images/woodworking/kalimbas.jpg?resize=300 'Kalimbas')
+![kalimbas](/images/woodworking/kalimbas.jpg?resize=1200 'Kalimbas')
 
 Here you can see a side-by-side of an unassembled kalimba I partially manufactured (on the right, somewhat in a ziploc), a kalimba I manufactured until the base plate cracked (bottom left), and my Moozica kalimba which helped inspire this project (top left).
 
-![iterated kalimbas](/images/woodworking/kalimba_iterations.jpg?resize=500 'Kalimba iterations')
+![iterated kalimbas](/images/woodworking/kalimba_iterations.jpg?resize=1200 'Kalimba iterations')
 
 ### Guitar stand (v0, RIP 2020-2020)
 
@@ -78,11 +78,11 @@ Now although the guitar modifications may seem a bit daunting, I felt alright me
 
 Before it was on my bed, it was its own guitar stand!
 
-![first guitar stand without guitar](/images/woodworking/guitar_stand_first_no_guitar.jpeg?resize=300 'First guitar stand without a guitar')
+![first guitar stand without guitar](/images/woodworking/guitar_stand_first_no_guitar.jpeg?resize=1200 'First guitar stand without a guitar')
 
 And it held up its own guitars!
 
-![first guitar stand](/images/woodworking/guitar_stand_first.jpeg?resize=300 'First guitar stand WITH!!! a guitar')
+![first guitar stand](/images/woodworking/guitar_stand_first.jpeg?resize=1200 'First guitar stand WITH!!! a guitar')
 
 Sadly. That did not hold true forever and so good ol' kalimbatar has had a superglued neck since about december 2020, a couple weeks after the stand immediately fell over. It was a great 8 months of learning guitar without messing it up. A bit after that, in January 2021, was when I built the bed and went from owning one guitar to three. I finished the current iteration of the kalimbatar in late March 2021, but I'm still working on tweaks to improve its sound.
 
@@ -90,34 +90,34 @@ Sadly. That did not hold true forever and so good ol' kalimbatar has had a super
 
 A bit later in the winter of 2021, around february, my (previously mentioned) roommate and good friend Peter got me to help him build a hammock stand.
 
-![hammock stand](/images/woodworking/hammock_stand.jpg?resize=500 'Hammock Stand')
+![hammock stand](/images/woodworking/hammock_stand.jpg?resize=1200 'Hammock Stand')
 
 It kept breaking because, despite a combined 6 bachelors degrees (and boy am I not carrying my weight on that one), neither of us are real capital-E Engineers. We forgot some key physics about how hammocks work and kept trying to bug fix
 
-![hammock stand bug fixing](/images/woodworking/hammock_stand_bug_fixing.jpeg?resize=500 'Hammock Stand Bug Fixing')
+![hammock stand bug fixing](/images/woodworking/hammock_stand_bug_fixing.jpeg?resize=1200 'Hammock Stand Bug Fixing')
 
 though none of the bug fixing worked until we consulted external help (s/o Peter's family)
 
-![hammock stand finished](/images/woodworking/hammock_stand_2.jpg?resize=300 'Hammock Stand Done, Peter Satisfied')
+![hammock stand finished](/images/woodworking/hammock_stand_2.jpg?resize=1200 'Hammock Stand Done, Peter Satisfied')
 
 After a while in our living area, the stand found a home on our upstairs deck
 
-![hammock stand outside](/images/woodworking/hammock_stand_outside.jpg?resize=300 'Hammock Stand Outside')
+![hammock stand outside](/images/woodworking/hammock_stand_outside.jpg?resize=1200 'Hammock Stand Outside')
 
 Here's me with it once it was warm enough to move some of the plants outside!
 
-![hammock stand outside aarav](/images/woodworking/hammock_stand_outside_aarav.jpg?resize=300 'Hammock Stand Outside with Aarav')
+![hammock stand outside aarav](/images/woodworking/hammock_stand_outside_aarav.jpg?resize=1200 'Hammock Stand Outside with Aarav')
 
 ### Guitar Stand (Lower Center of Mass)
 
 With my newfound experience in how not to build guitar stands, in April 2021 I set out to build a guitar stand for a guitar I no longer had any monetary stake in (a gift, for my friend Christy)
 
-![without a guitar on it or anything](/images/woodworking/guitar_stand_plain.jpg?resize=300 'Guitar Stand')
+![without a guitar on it or anything](/images/woodworking/guitar_stand_plain.jpg?resize=1200 'Guitar Stand')
 
 The design on the side is a woodburning and mixed media (nail, guitar string) rendition of the major chord shapes on the neck of a guitar (the CAGED system, if that's more familiar terminology). Here's what it looks like with a guitar on it
 
-![christy guitar stand](/images/woodworking/guitar_stand.jpg?resize=300 'Christy guitar stand')
+![christy guitar stand](/images/woodworking/guitar_stand.jpg?resize=1200 'Christy guitar stand')
 
 And I can state with near certainty that this guitar stand itself has never tipped over :4) which is really good and pretty indicative of a complete success on this one. Yay!
 
-![christy and her guitar stand](/images/woodworking/christy_guitar_stand.jpg?resize=500 'Christy and her guitar stand')
+![christy and her guitar stand](/images/woodworking/christy_guitar_stand.jpg?resize=1200 'Christy and her guitar stand')
