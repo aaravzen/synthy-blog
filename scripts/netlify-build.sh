@@ -10,7 +10,7 @@ echo "Started Cecil build"
 if [[ $CECIL_ENV != "production" ]]; then
   php cecil.phar build -vv --baseurl=$DEPLOY_PRIME_URL --drafts
 else
-  php cecil.phar build -v --baseurl=$URL --postprocess
+  php cecil.phar build -v --baseurl=https://syngths.xyz --postprocess
 fi
 
 # build success? can deploy?
