@@ -5,7 +5,7 @@ menu:
   main:
     weight: 999
 ---
-> A site by Aarav Singh
+> A site by Aarav Singh ([GitHub](https://github.com/aaravzen))
 
 ## What's up?
 
