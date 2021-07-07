@@ -11,7 +11,7 @@
     <uri>https://www.syngths.xyz/</uri>
   </author>
   <entry xml:lang="en">
-    <id>https://www.syngths.xyz/blog/</id>
+    <id>https://www.syngths.xyz/blog/howdy/</id>
     <title>Howdy</title>
     <content type="html">
       <![CDATA[<p>I started writing this site a few days ago, my first blog post was published online around June 28th. But now I've gotten up to about 8 posts, almost enough for a full-fledged blog site, so I figure it's time to make all of them organized and accessible from the get go. For right now, and maybe forever, I decided to make the most recent blog post this index post so it shows up on the homepage. Here are the other posts I've got on the site:</p>
@@ -27,7 +27,7 @@
 <a href="https://syngths.xyz/blog/skies/">skies</a>
 <a href="https://syngths.xyz/blog/cars/">cars</a></p>]]>
     </content>
-    <link href="https://www.syngths.xyz/blog/" rel="alternate" type="text/html" />
+    <link href="https://www.syngths.xyz/blog/howdy/" rel="alternate" type="text/html" />
     <published>2021-07-07T08:00:00-04:00</published>
     <updated>2021-07-07T08:00:00-04:00</updated>
   </entry>
