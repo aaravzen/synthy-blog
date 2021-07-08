@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.syngths.xyz/blog/</id>
+  <title>Aarav&#039;s Syngths</title>
+  <subtitle><![CDATA[I quit my job to build instruments and now I'm gonna post about it]]></subtitle>
+  <link href="https://www.syngths.xyz/blog/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://www.syngths.xyz/blog/" rel="alternate" type="text/html" />
+  <updated>2019-07-08T20:00:00-04:00</updated>
+  <author>
+    <name>Aarav's Syngths</name>
+    <uri>https://www.syngths.xyz/</uri>
+  </author>
+  <entry xml:lang="en">
+    <id>https://www.syngths.xyz/blog/</id>
+    <title>Posts</title>
+    <content type="html">
+      <![CDATA[]]>
+    </content>
+    <link href="https://www.syngths.xyz/blog/" rel="alternate" type="text/html" />
+    <published>2021-07-08T17:34:43-04:00</published>
+    <updated>2021-07-08T17:34:43-04:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>https://www.syngths.xyz/</id>
+    <title>Home</title>
+    <content type="html">
+      <![CDATA[<h1 id="the-aarav-syngth-experience">The Aarav Syngth Experience</h1>
+<blockquote>
+<p>Aiming for greatness, starting out in my bedroom.</p>
+</blockquote>]]>
+    </content>
+    <link href="https://www.syngths.xyz/" rel="alternate" type="text/html" />
+    <published>2019-07-08T20:00:00-04:00</published>
+    <updated>2019-07-08T20:00:00-04:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>https://www.syngths.xyz/about/</id>
+    <title>About</title>
+    <content type="html">
+      <![CDATA[<blockquote>
+<p>A site by Aarav Singh (<a href="https://github.com/aaravzen">GitHub</a>)</p>
+</blockquote>
+<h2 id="what-s-up">What's up?</h2>
+<p>(As of July 2021:) I started writing this site a few days ago, my first blog post was published online ~June 28th.</p>
+<p>Currently I'm working on developing musical instruments and studying the materialist conception of history full-time. When I'm not doing that, I try my hand at woodworking, electronics, playing music, cooking, and many other short-lived but fondly-remembered hobbies.</p>
+<p>I'm in the process of moving from Seattle back to Virginia.</p>
+<p>Here's a bit more about me:</p>
+<h3 id="professional-experience-mostly-in-seattle-and-nyc">Professional Experience, mostly in Seattle and NYC</h3>
+<p>I was last a software developer (a <code>networking engineer</code>) at <a href="https://www.microsoft.com/en-us/">Microsoft</a> working on <a href="https://docs.microsoft.com/en-us/azure/traffic-manager/">Azure Traffic Manager</a> in Redmond, WA.</p>
+<p>In 2017 and 2018, I spent time interning at <a href="https://www.bloomberg.com/company/">Bloomberg, LP</a>. I built software to incorporate open orders in cash blotters for <a href="https://www.bloomberg.com/professional/product/asset-and-investment-manager/">Asset and Investment Manager</a> (buy-side tool suite) during my first year there. My second year, I switched over to sell-side tools as I worked on the <a href="https://www.bloomberg.com/professional/product/salesperson-dashboard/">Salesperson Dashboard (DASH)</a>; here, I built a <a href="https://en.wikipedia.org/wiki/Financial_Information_eXchange">FIX</a> message sender and simulator for internal development testing, beta production testing, and external sales demonstrations of our application suite workflows. I also won a fun <a href="https://vimeo.com/242652952">overnight puzzle challenge</a> during my time there, s/o Mikey Mike and the Bloomberg Bunch!</p>
+<h3 id="education-and-academic-hobbies-back-in-blacksburg">Education and Academic Hobbies, back in Blacksburg</h3>
+<p>I got a couple B.Sc.s from <a href="vt.edu">Virginia Tech</a> in math and computer science in 2018.</p>
+<p>I've spent time helping out at <a href="https://vthacks.com/">VTHacks</a> (PR and organizing for the event) and <a href="https://www.vthunt.com/">VTHunt</a> (making the site for the puzzle hunt).</p>
+<p>I was also a member of the <a href="https://icpc.cs.vt.edu/#/">VT Programming Team</a>. We competed in the <a href="https://icpc.baylor.edu/">ACM ICPC</a>, training under <a href="https://people.cs.vt.edu/~gback/">Dr. Godmar Back</a>. I competed in the <a href="https://mausa17.kattis.com/standings">2017 Mid-Atlantic ICPC Regional</a> on team WorstSort (we finished #7/170). In the <a href="https://mausa18.kattis.com/standings">2018 Mid-Atlantic ICPC Regional</a>, I was a member of the Classy Coders (we finished #11/185). I was also a <a href="https://codecon.bloomberg.com/">Bloomberg CodeCon</a> World Finalist in 2019.</p>
+<p>In the offseason, I was briefly President of the <a href="https://gobblerconnect.vt.edu/organization/ProgrammingTeam">VT Programming Team Offseason</a>. Along with being the de facto pizza orderer, I gave some lectures on concepts like <a href="http://bit.ly/2sAlomU">Greedy Algorithms</a>, <a href="http://bit.ly/2G8q1KH">Dynamic Programming</a>, <a href="http://bit.ly/2nRbnfJ">Backtracking Algorithms</a>, and <a href="https://bit.ly/2Gg11xX">Sliding Window/Line Sweep Algorithms</a>.</p>
+<p>I also enjoy writing programming problems when I get the opportunity. I've written for <a href="https://icpc.cs.vt.edu/#/hscontest">Virginia Tech's High School Programming Contest</a> a couple times:<br />
+<a href="https://open.kattis.com/problems/provincesandgold">Provinces and Gold</a> is a fairly trivial problem based on <a href="https://en.wikipedia.org/wiki/Dominion_(card_game)">Dominion</a><br />
+<a href="https://open.kattis.com/problems/substitutionmania">Substitution Mania!</a> is a tricky optimization problem - if you do (or don't) solve this one (or any one, really) and want to talk about it, feel free to reach out to me! I love talking about these problems.</p>
+<p>I've also written some on the VT <a href="https://pcs.cs.cloud.vt.edu/">Practice Site</a>. Feel free to go through <a href="https://pcs.cs.cloud.vt.edu/users/aarav">my submissions</a> to collect em all and critique my code, but here are a few I could find:<br />
+<a href="https://pcs.cs.cloud.vt.edu/problems/286">Lowest Factor Sum</a><br />
+<a href="https://pcs.cs.cloud.vt.edu/problems/285">Rubber Band</a><br />
+<a href="https://pcs.cs.cloud.vt.edu/problems/284">Rubber Band (easy version, in case that first one stumps ya)</a><br />
+<a href="https://pcs.cs.cloud.vt.edu/problems/288">Maximal Substring with N repeated characters</a><br />
+<a href="https://pcs.cs.cloud.vt.edu/problems/273">Find the Apple</a>  </p>
+<p>I also tutored math and physics (calculus, linear algebra, differential equations, number theory, mechanics) and spent ample time in the Systems Lounge down in the basement of McBryde.</p>
+<h3 id="the-formative-years-at-home-in-richmond-va">The Formative Years, at home in Richmond, VA</h3>
+<p>I graduated from <a href="http://www.gsgis.k12.va.us/">Maggie L. Walker Governor's School</a> in 2015.</p>
+<p>I spent most of my time in high school dedicated working with my robotics team, the <a href="http://mechtechdragons.com/">Mech Tech Dragons</a>. I was the Team Captain (CEO) my senior year and served as the Build Captain (CTO) my junior year. I won the <a href="https://www.thebluealliance.com/team/422/2014">Dean's List Finalist Award</a> during my tenure there and I'm proud to have helped shape the team with some of the most meaningful work I've done.</p>
+<p>I worked as a teacher and camp counselor at <a href="https://www.engineeringforkids.com/">Engineering for Kids</a> for a few years. I really enjoy working with kids, and this opportunity was a great chance to develop my ability to communicate and handle overwhelming classroom situations.</p>
+<p>I was a research assistant at <a href="https://egr.vcu.edu/directory/karlamossi/">Dr. Karla Mossi</a>'s <a href="http://www.people.vcu.edu/~kmmossi/index.htm">Smart Materials Lab</a> at VCU. I helped her and Dr. Ugur Erturun during their research collection and editing phases of their paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359431115003294">Thermoelectric Devices with Rotated and Coaxial Leg Configurations: Numerical Analysis of Performance</a>.</p>]]>
+    </content>
+    <link href="https://www.syngths.xyz/about/" rel="alternate" type="text/html" />
+    <published>2019-07-08T20:00:00-04:00</published>
+    <updated>2019-07-08T20:00:00-04:00</updated>
+  </entry>
+</feed>
