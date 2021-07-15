@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.syngths.xyz/blog/</id>
   <title>Aarav&#039;s Syngths</title>
-  <subtitle><![CDATA[I quit my job to build instruments and now I'm gonna post about it]]></subtitle>
+  <subtitle><![CDATA[I'm a modern luthier. My strings are numbers and sometimes electrons.]]></subtitle>
   <link href="https://www.syngths.xyz/blog/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.syngths.xyz/blog/" rel="alternate" type="text/html" />
   <updated>2019-07-08T20:00:00-04:00</updated>
@@ -17,8 +17,8 @@
       <![CDATA[]]>
     </content>
     <link href="https://www.syngths.xyz/blog/" rel="alternate" type="text/html" />
-    <published>2021-07-09T14:23:37-04:00</published>
-    <updated>2021-07-09T14:23:37-04:00</updated>
+    <published>2021-07-15T01:21:31-04:00</published>
+    <updated>2021-07-15T01:21:31-04:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://www.syngths.xyz/</id>
